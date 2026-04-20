@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/notebooks/intro.ipynb
 """
 
-score = 0
+score = 1
 print("WELCOME TO QUIZ")
 name =str(input("what is ur name: "))
 print("okay" ,name,"lets start the quiz now")
